@@ -1,0 +1,9 @@
+{
+	"name": "FirstTryFerdous",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3e91e40-6744-4374-bdc6-371d52b8e6d0",
+		"tenantId": "16cbcb62-2a70-465b-87b1-8daf6397a549"
+	}
+}

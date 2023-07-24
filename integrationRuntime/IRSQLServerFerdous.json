@@ -1,0 +1,6 @@
+{
+	"name": "IRSQLServerFerdous",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
